@@ -243,7 +243,6 @@ restaurant-review-sentiment-analysis/
 │
 └── README.md
 
-
 ---
 
 ## How to Run the Project
