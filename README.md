@@ -231,6 +231,7 @@ The project includes the following visualizations:
 
 ## Project Structure
 
+```
 restaurant-review-sentiment-analysis/
 │
 ├── dataset/
@@ -242,6 +243,7 @@ restaurant-review-sentiment-analysis/
 ├── requirements.txt
 │
 └── README.md
+```
 
 ---
 
